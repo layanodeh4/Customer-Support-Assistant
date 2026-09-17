@@ -1,0 +1,5 @@
+FAQ
+
+Customers should provide their order ID when asking about order status.
+
+Customer support can help with delivery, returns, payments, and product questions.

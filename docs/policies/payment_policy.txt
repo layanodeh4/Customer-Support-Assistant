@@ -1,0 +1,5 @@
+Payment Policy
+
+Customers can pay using the payment methods supported at checkout.
+
+A failed payment should be retried once and then escalated to support if the problem continues.
